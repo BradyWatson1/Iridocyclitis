@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <title>bradywatson</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css?version=2" />
+  </head>
+  
+    <div>
+      <image controls>
+        <image src="XY Setup.jpg">
+      </image>
+    </div>
